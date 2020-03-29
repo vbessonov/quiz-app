@@ -1,4 +1,6 @@
-# quiz
+# quiz-app
+
+Simple quiz app written using Vue.js and inspired by [the Faraday Academy's tutorial](https://www.youtube.com/watch?v=4deVCNJq3qc).
 
 ## Project setup
 ```
